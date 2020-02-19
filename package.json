@@ -1,0 +1,22 @@
+{
+  "name": "webscrapingjsintro",
+  "version": "1.0.0",
+  "description": "Web scraping intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rreed17/WebScrapingJSIntro.git"
+  },
+  "author": "Rashad J Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rreed17/WebScrapingJSIntro/issues"
+  },
+  "homepage": "https://github.com/rreed17/WebScrapingJSIntro#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
